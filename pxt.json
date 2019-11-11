@@ -1,0 +1,16 @@
+{
+    "name": "BridgeIO",
+    "version": "0.1.0",
+    "description": "Bridge IO extension",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "edge-connector": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
