@@ -42,5 +42,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-nanobit=github:Kittenbot/pxt-bridgeio
+bridgeio=github:Kittenbot/pxt-bridgeio
 ```
